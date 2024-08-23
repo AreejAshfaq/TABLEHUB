@@ -11,6 +11,10 @@ var arr = [
 
 
 var tbody =document.getElementById("tbody");
+var std1="areej"
+var std="marwa"
+var paragraph=`i am science teacher$(std1). marwa is my doughter`;
+console.log(paragraph)
 
 
 
